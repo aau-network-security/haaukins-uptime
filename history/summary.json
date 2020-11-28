@@ -5,7 +5,7 @@
     "slug": "general-haaukins",
     "status": "up",
     "uptime": "100.00%",
-    "time": 521
+    "time": 507
   },
   {
     "name": "Admin Haaukins",
@@ -13,7 +13,7 @@
     "slug": "admin-haaukins",
     "status": "up",
     "uptime": "100.00%",
-    "time": 529
+    "time": 505
   },
   {
     "name": "Beta Haaukins",
@@ -21,7 +21,7 @@
     "slug": "beta-haaukins",
     "status": "up",
     "uptime": "100.00%",
-    "time": 593
+    "time": 556
   },
   {
     "name": "Admin Dev Haaukins",
@@ -29,6 +29,6 @@
     "slug": "admin-dev-haaukins",
     "status": "up",
     "uptime": "100.00%",
-    "time": 563
+    "time": 554
   }
 ]
