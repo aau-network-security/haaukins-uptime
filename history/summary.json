@@ -5,7 +5,7 @@
     "slug": "general-haaukins",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1077
+    "time": 972
   },
   {
     "name": "Admin Haaukins",
@@ -13,15 +13,15 @@
     "slug": "admin-haaukins",
     "status": "up",
     "uptime": "100.00%",
-    "time": 492
+    "time": 490
   },
   {
     "name": "Beta Haaukins",
     "url": "https://beta.ntp-event.dk",
     "slug": "beta-haaukins",
     "status": "up",
-    "uptime": "99.22%",
-    "time": 388
+    "uptime": "99.26%",
+    "time": 400
   },
   {
     "name": "Admin Dev Haaukins",
@@ -29,6 +29,6 @@
     "slug": "admin-dev-haaukins",
     "status": "up",
     "uptime": "100.00%",
-    "time": 558
+    "time": 546
   }
 ]
