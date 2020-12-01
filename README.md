@@ -23,7 +23,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://aau-network-security.github.io/uptime-haaukins)
+[**Visit our status website →**](https://uptime.haaukins.com)
 
 ## 📄 License
 
