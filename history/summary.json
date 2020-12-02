@@ -19,9 +19,9 @@
     "name": "Beta Haaukins",
     "url": "https://beta.ntp-event.dk",
     "slug": "beta-haaukins",
-    "status": "down",
-    "uptime": "98.20%",
-    "time": 335
+    "status": "up",
+    "uptime": "98.21%",
+    "time": 343
   },
   {
     "name": "Admin Dev Haaukins",
