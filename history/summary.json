@@ -4,7 +4,7 @@
     "url": "https://general.haaukins.com",
     "slug": "general-haaukins",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.63%",
     "time": 709
   },
   {
@@ -19,9 +19,9 @@
     "name": "Beta Haaukins",
     "url": "https://beta.ntp-event.dk",
     "slug": "beta-haaukins",
-    "status": "up",
-    "uptime": "98.12%",
-    "time": 348
+    "status": "down",
+    "uptime": "98.20%",
+    "time": 335
   },
   {
     "name": "Admin Dev Haaukins",
