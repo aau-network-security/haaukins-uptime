@@ -42,18 +42,19 @@
     "url": "https://beta.ntp-event.dk",
     "icon": "https://favicons.githubusercontent.com/beta.ntp-event.dk",
     "slug": "beta-haaukins",
-    "status": "up",
-    "uptime": "98.42%",
-    "uptimeDay": "95.28%",
+    "status": "down",
+    "uptime": "98.47%",
+    "uptimeDay": "99.34%",
     "uptimeWeek": "97.95%",
-    "uptimeMonth": "98.42%",
-    "uptimeYear": "98.42%",
+    "uptimeMonth": "98.47%",
+    "uptimeYear": "98.47%",
     "time": 562,
-    "timeDay": 557,
-    "timeWeek": 548,
+    "timeDay": 553,
+    "timeWeek": 540,
     "timeMonth": 562,
     "timeYear": 562,
     "dailyMinutesDown": {
+      "2020-12-08": 1,
       "2020-12-07": 68,
       "2020-12-06": 44,
       "2020-12-02": 20,
@@ -66,9 +67,9 @@
     "url": "https://admin.ntp-event.dk:8003",
     "icon": "https://favicons.githubusercontent.com/admin.ntp-event.dk",
     "slug": "admin-dev-haaukins",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -77,6 +78,8 @@
     "timeWeek": 567,
     "timeMonth": 575,
     "timeYear": 575,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-08": 0
+    }
   }
 ]
