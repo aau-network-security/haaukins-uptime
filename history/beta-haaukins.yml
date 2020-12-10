@@ -1,7 +1,7 @@
 url: https://beta.ntp-event.dk  
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2020-12-10T13:40:38.213Z
+status: up
+code: 200
+responseTime: 583
+lastUpdated: 2020-12-10T13:48:51.144Z
 startTime: Sat Nov 28 2020 00:12:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
