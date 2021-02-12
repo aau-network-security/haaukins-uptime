@@ -8,9 +8,6 @@ sites:
     url: https://general.haaukins.com
   - name: Admin Haaukins
     url: https://admin.haaukins.com:8003
-  - name: Beta Haaukins 
-    url: https://beta.ntp-event.dk
-    maxResponseTime: 5000
   - name: Admin Dev Haaukins
     url: https://admin.ntp-event.dk:8003
 
